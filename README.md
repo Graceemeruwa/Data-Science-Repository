@@ -18,3 +18,6 @@ https://github.com/Graceemeruwa/SQL_PROJECT.git
 
 **6. Sale Dashboard Using MS Excel**
 [my exce DASHBORAD.xlsx](https://github.com/Graceemeruwa/Grace_Emeruwa_DataScience_Portfolio/blob/main/my%20exce%20DASHBORAD.xlsx)
+
+**7. Sales Dashboard Using PowerBi**
+https://app.powerbi.com/groups/me/dashboards/d593fef9-978e-4da2-a6aa-37b950ca504e
